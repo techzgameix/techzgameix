@@ -1,0 +1,5 @@
+{
+        "ip":"techz0678aMi.aternos.me:12738",
+        "port": "12738",
+        "name": "techzgamix"
+}
